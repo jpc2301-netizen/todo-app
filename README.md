@@ -3,7 +3,8 @@
 A simple to-do app with filters and localStorage so tasks persist after refresh.
 
 ## Live Demo
-👉 https://jack-todo-app.netlify.app/
+👉 https://jpc-todo-app.netlify.app/
+
 
 ## Features
 - Add tasks
